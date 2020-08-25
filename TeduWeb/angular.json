@@ -28,10 +28,32 @@
               "./node_modules/font-awesome/css/font-awesome.css",
               "./node_modules/animate.css/animate.css",
               "./node_modules/nprogress/nprogress.css",
+              "./node_modules/iCheck/skins/flat/green.css",
+              "./node_modules/jqvmap/dist/jqvmap.min.css",
+              "./node_modules/bootstrap-daterangepicker/daterangepicker.css",
               "src/assets/css/custom.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/jquery/dist/jquery.min.js",
+              "./node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "./node_modules/fastclick/lib/fastclick.js",
+              "./node_modules/nprogress/nprogress.js",
+              "./node_modules/chart.js/dist/Chart.min.js",
+              "./node_modules/gauge.js/dist/gauge.min.js",
+              "./node_modules/bootstrap-progressbar/bootstrap-progressbar.min.js",
+              "./node_modules/skycons/skycons.js",
+              "./node_modules/iCheck/icheck.min.js",
+              "./node_modules/Flot/source/jquery.flot.js",
+              "./node_modules/Flot/source/jquery.flot.pie.js",
+              "./node_modules/Flot/source/jquery.flot.time.js",
+              "./node_modules/Flot/source/jquery.flot.stack.js",
+              "./node_modules/Flot/source/jquery.flot.resize.js",
+              "./node_modules/nprogress/nprogress.js",
+              "./node_modules/datejs/index.js",
+              "src/assets/js/custom.js",
+              "src/assets/js/helpers/smartresize.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -124,6 +146,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "TeduWeb"
 }

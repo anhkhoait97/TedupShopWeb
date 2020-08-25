@@ -25,3 +25,31 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Package to install
+<!-- jQuery -->
+npm i jquery --save
+<!-- Bootstrap -->
+npm i bootstrap --save
+<!-- FastClick -->
+npm i fastclick --save
+<!-- NProgress -->
+npm i npropress --save
+<!-- Chart.js -->
+npm i chart.js --save
+<!-- gauge.js -->
+npm i gauge.js --save
+<!-- bootstrap-progressbar -->
+npm i bootstrap-progressbar --save
+<!-- iCheck -->
+npm i icheck --save
+<!-- Skycons -->
+npm i skycons --save
+<!-- Flot -->
+npm i flot --save
+<!-- DateJS -->
+npm i datejs --save
+<!-- JQVMap -->
+npm i jqvmap --save
+<!-- bootstrap-daterangepicker -->
+npm i bootstrap-daterangepicker --save
